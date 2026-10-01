@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abu 👋
 
-<!--
-**Cloud9din/Cloud9din** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computing graduate based in Exeter, UK, with an interest in IT support, software development, cloud technologies and cybersecurity.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- BSc (Hons) Computing and Information Technologies
+- HTML, CSS and JavaScript
+- WordPress and Wix website development
+- AWS cloud fundamentals
+- Windows 10/11 and Microsoft 365
+- Technical troubleshooting and problem-solving
+- Git and GitHub
+- Interested in IT Support, Systems Support and Junior Software Development roles
+
+## Projects
+
+- DevBoard Task Management Dashboard
+- IT Helpdesk Ticket System
+- Windows System Health Checker
+- IT Support Knowledge Base
+- AWS Serverless Contact Form
+- Python Log Analyzer
+
+## Technologies
+
+HTML | CSS | JavaScript | Git | GitHub | AWS | WordPress | Wix | Windows | Microsoft 365
+
+## Portfolio
+
+https://cornflowerblue-crocodile-716058.hostingersite.com/
+
+## LinkedIn
+
+https://www.linkedin.com/in/abu-lashkor-al2024/
