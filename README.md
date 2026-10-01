@@ -15,12 +15,14 @@ I am a Computing graduate based in Exeter, UK, with an interest in IT support, s
 
 ## Projects
 
-- DevBoard Task Management Dashboard
-- IT Helpdesk Ticket System
-- Windows System Health Checker
-- IT Support Knowledge Base
-- AWS Serverless Contact Form
-- Python Log Analyzer
+## Projects
+
+- [DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
+- IT Helpdesk Ticket System — In progress
+- Windows System Health Checker — Planned
+- IT Support Knowledge Base — Planned
+- AWS Serverless Contact Form — In progress
+- Python Log Analyzer — Planned
 
 ## Technologies
 
