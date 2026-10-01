@@ -18,7 +18,7 @@ I am a Computing graduate based in Exeter, UK, with an interest in IT support, s
 ## Projects
 
 - [DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
-- IT Helpdesk Ticket System — In progress
+- [IT Helpdesk Ticket System](https://github.com/Cloud9din/it-helpdesk-ticket-system)
 - Windows System Health Checker — Planned
 - IT Support Knowledge Base — Planned
 - AWS Serverless Contact Form — In progress
