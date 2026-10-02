@@ -1,6 +1,6 @@
 # Hi, I'm Abu 👋
 
-I am a Computing graduate based in Exeter, UK, with an interest in IT support, software development, cloud technologies and cybersecurity.
+I enjoy solving technical problems and building practical solutions across IT support, web development, cloud technologies and cybersecurity.
 
 ## About Me
 
