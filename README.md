@@ -15,16 +15,16 @@ I am a Computing graduate based in Exeter, UK, with an interest in IT support, s
 
 ## Projects
 
-- [DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - [IT Helpdesk Ticket System](https://github.com/Cloud9din/it-helpdesk-ticket-system)
 - [Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
 - [IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
-- AWS Serverless Contact Form — In progress
+- [AWS Serverless Contact Form](https://github.com/Cloud9din/aws-serverless-contact-form)
+- [DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - Python Log Analyzer — Planned
 
 ## Technologies
 
-HTML | CSS | JavaScript | Git | GitHub | AWS | WordPress | Wix | Windows | Microsoft 365
+HTML | CSS | JavaScript | PowerShell | Git | GitHub | AWS | Lambda | API Gateway | Amazon SES | WordPress | Wix | Windows | Microsoft 365
 
 ## Portfolio
 
