@@ -23,7 +23,8 @@ I enjoy building responsive, practical web applications using HTML, CSS and Java
 - [📋 DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - [🖥️ Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
 - [☁️ SkyCast - Weather Dashboard ](https://github.com/Cloud9din/weather-dashboard)
-
+- [🔐 Python Security Log Analyzer](https://github.com/Cloud9din/python-security-log-analyzer)
+  
 ## Technologies
 
 **Web Development:** HTML | CSS | JavaScript | WordPress | Wix  
