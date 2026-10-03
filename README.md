@@ -1,6 +1,6 @@
 # Hi, I'm Abu 👋
 
-I enjoy solving technical problems and building practical solutions across IT support, web development, cloud technologies and cybersecurity.
+I enjoy building responsive, practical web applications using HTML, CSS and JavaScript, while continuing to develop my skills in cloud technologies and IT systems.
 
 ## About Me
 
@@ -15,16 +15,23 @@ I enjoy solving technical problems and building practical solutions across IT su
 
 ## Projects
 
-- [IT Helpdesk Ticket System](https://github.com/Cloud9din/it-helpdesk-ticket-system)
-- [Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
-- [IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
-- [AWS Serverless Contact Form](https://github.com/Cloud9din/aws-serverless-contact-form)
-- [DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
-- Python Log Analyzer — Planned
+## Projects
+
+- [🍽️ ReserveTable - Restaurant Booking System](https://github.com/Cloud9din/restaurant-booking-system)
+  - [Live Demo](https://cloud9din.github.io/restaurant-booking-system/)
+- [📋 DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
+- [🎫 IT Helpdesk Ticket System](https://github.com/Cloud9din/it-helpdesk-ticket-system)
+- [📚 IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
+- [☁️ AWS Serverless Contact Form](https://github.com/Cloud9din/aws-serverless-contact-form)
+- [🖥️ Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
+## Technologies
 
 ## Technologies
 
-HTML | CSS | JavaScript | PowerShell | Git | GitHub | AWS | Lambda | API Gateway | Amazon SES | WordPress | Wix | Windows | Microsoft 365
+**Web Development:** HTML | CSS | JavaScript | WordPress | Wix  
+**Cloud:** AWS | Lambda | API Gateway | Amazon SES  
+**Tools:** Git | GitHub | VS Code  
+**IT:** Windows 10/11 | Microsoft 365 | PowerShell
 
 ## Portfolio
 
