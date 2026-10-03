@@ -1,6 +1,6 @@
 # Hi, I'm Abu 👋
 
-I enjoy building responsive, practical web applications using HTML, CSS and JavaScript, while continuing to develop my skills in cloud technologies and IT systems.
+I enjoy building practical projects and learning through hands-on experience. I’m currently developing my skills in web development, AWS cloud technologies and IT support, while looking for opportunities to grow in the technology industry.
 
 ## About Me
 
