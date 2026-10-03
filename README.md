@@ -22,6 +22,7 @@ I enjoy building responsive, practical web applications using HTML, CSS and Java
 - [📚 IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
 - [📋 DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - [🖥️ Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
+- [☁️ SkyCast — Weather Dashboard ](https://cloud9din.github.io/weather-dashboard/)
 
 ## Technologies
 
