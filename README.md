@@ -15,8 +15,6 @@ I enjoy building responsive, practical web applications using HTML, CSS and Java
 
 ## Projects
 
-## Projects
-
 - [🍽️ ReserveTable - Restaurant Booking System](https://github.com/Cloud9din/restaurant-booking-system)
   - [Live Demo](https://cloud9din.github.io/restaurant-booking-system/)
 - [☁️ AWS Serverless Contact Form](https://github.com/Cloud9din/aws-serverless-contact-form)
@@ -24,7 +22,6 @@ I enjoy building responsive, practical web applications using HTML, CSS and Java
 - [📚 IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
 - [📋 DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - [🖥️ Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
-## Technologies
 
 ## Technologies
 
