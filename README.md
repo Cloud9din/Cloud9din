@@ -22,13 +22,14 @@ I enjoy building practical projects and learning through hands-on experience. I�
 - [📚 IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
 - [📋 DevBoard Task Management Dashboard](https://github.com/Cloud9din/A5-Dev-Board)
 - [🖥️ Windows System Health Checker](https://github.com/Cloud9din/windows-system-health-checker)
-- [☁️ SkyCast - Weather Dashboard ](https://github.com/Cloud9din/weather-dashboard)
+- [☁️ SkyCast - Weather Dashboard](https://github.com/Cloud9din/weather-dashboard)
 - [🔐 Python Security Log Analyzer](https://github.com/Cloud9din/python-security-log-analyzer)
-  
+
 ## Technologies
 
 **Web Development:** HTML | CSS | JavaScript | WordPress | Wix  
 **Cloud:** AWS | Lambda | API Gateway | Amazon SES  
+**Cybersecurity:** Security Log Analysis | SIEM Fundamentals | Wireshark | Snort  
 **Tools:** Git | GitHub | VS Code  
 **IT:** Windows 10/11 | Microsoft 365 | PowerShell
 
