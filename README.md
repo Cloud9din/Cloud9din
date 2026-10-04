@@ -4,8 +4,6 @@ I enjoy building practical projects and learning through hands-on experience. Iâ
 
 ## About Me
 
-I enjoy building practical projects and learning through hands-on experience. Iâ€™m currently developing my skills in web development, AWS cloud technologies, IT support and cybersecurity, while looking for opportunities to grow in the technology industry.
-
 - BSc (Hons) Computing and Information Technologies
 - HTML, CSS and JavaScript
 - WordPress and Wix website development
