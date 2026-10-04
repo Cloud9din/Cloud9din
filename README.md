@@ -17,6 +17,7 @@ I enjoy building practical projects and learning through hands-on experience. I�
 
 - [🍽️ ReserveTable - Restaurant Booking System](https://github.com/Cloud9din/restaurant-booking-system)
   - [Live Demo](https://cloud9din.github.io/restaurant-booking-system/)
+- [☁️ AWS Cloud Resume](https://github.com/Cloud9din/aws-cloud-resume)
 - [☁️ AWS Serverless Contact Form](https://github.com/Cloud9din/aws-serverless-contact-form)
 - [🎫 IT Helpdesk Ticket System](https://github.com/Cloud9din/it-helpdesk-ticket-system)
 - [📚 IT Support Knowledge Base](https://github.com/Cloud9din/it-support-knowledge-base)
